@@ -1,0 +1,17 @@
+{
+    "name": "OpenMageModuleFostering/Mobify",
+    "type": "magento-module",
+    "license": "MIT",
+    "homepage": "",
+    "description": "Mobify delivers technology and services that help companies engage connected consumers to increase revenue online and in-store. Mobify’s mobile engagement platform creates powerful mobile web and native applications and delivers the latest mobile push notification and location-based technology across all mobile devices.
+",
+    "authors": [
+    {
+        "name": "Mobify",
+        "email": "se@mobify.com"
+    }
+],
+    "suggest": {
+        "magento-hackathon/magento-composer-installer": "*"
+    }
+}

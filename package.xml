@@ -1,0 +1,29 @@
+<?xml version="1.0"?>
+<package>
+    <name>Mobify</name>
+    <version>1.0.0</version>
+    <stability>stable</stability>
+    <license>MIT</license>
+    <channel>community</channel>
+    <extends/>
+    <summary>Mobify delivers technology and services that help companies engage connected consumers to increase revenue online and in-store. Mobify&#x2019;s mobile engagement platform creates powerful mobile web and native applications and delivers the latest mobile push notification and location-based technology across all mobile devices.&#xD;
+</summary>
+    <description>Mobify&#x2019;s pre-built integration allows Magento clients to extend their digital storefront across all mobile touchpoints in a way that is fast to implement and cost-efficient to manage. Implementing Mobify&#x2019;s entire mobile shopping and engagement platform simply requires the insertion of a single Javascript tag into your website&#x2019;s header.&#xD;
+&#xD;
+Leverage Magento and Mobify to create a better mobile shopping experience by activating or augmenting a mobile channel in under six weeks. Get the most value out of your existing digital commerce investment without purchasing mobile-specific tools. Build once for the web, and use it everywhere: from native applications to app and web push notifications, to contextualized, location-enriched marketing campaigns.&#xD;
+&#xD;
+How To Use&#xD;
+&#xD;
+1. Add Mobify Extension into Magento Store&#xD;
+2. Paste &lt;?php echo $this-&gt;helper('tagmanager/data')-&gt;getTag() ?&gt;  into the top of app/design/frontend/base/default/template/page/html/head.phtml&#xD;
+3. Go to Mobify Tag extension and copy and paste in Mobify Tag from your Mobify Account.</description>
+    <notes>1.0.0&#xD;
+&#xD;
+Stable Mobify Tag release</notes>
+    <authors><author><name>Mobify</name><user>Mobify</user><email>se@mobify.com</email></author></authors>
+    <date>2016-02-08</date>
+    <time>18:36:04</time>
+    <contents></contents>
+    <compatible/>
+    <dependencies><required><php><min>5.0.0</min><max>7.0.2</max></php></required></dependencies>
+</package>
